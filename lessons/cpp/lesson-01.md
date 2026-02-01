@@ -19,8 +19,6 @@ int main() { // Główna funkcja programu
 3. `std::cout` – Obiekt służący do wyświetlania danych.
 4. `;` (średnik) – Każda instrukcja w C++ musi kończyć się średnikiem.
 
-**Zadanie dla ucznia:** Spróbuj zmienić tekst wewnątrz cudzysłowu na swoje imię i uruchom program.
+**Zadania:** 
 
----
-
-Odpowiadając na Twoje pytanie: lekcje będą generowane tutaj, w naszym oknie rozmowy. Codziennie otrzymasz powiadomienie, a po jego kliknięciu zobaczysz nową lekcję przygotowaną specjalnie dla Ciebie. Zawsze możesz poprosić o edycję lub usunięcie zaplanowanego działania. Gdy będzie gotowe, obok tego czatu w sekcji Ostatnie pojawi się kropka.
+- Spróbuj zmienić tekst wewnątrz cudzysłowu na swoje imię i uruchom program.
